@@ -1,6 +1,5 @@
 ##  Olá!!! Eu sou o Carlos Silva
-Hoje estou trabalhando com Desenvolvimento WEB 
-Estudando JAVA COM SPRINGBOOT, MYSQL, MARIADB,SQLSERVER
+Hoje estou Estudando JAVA COM SPRINGBOOT, MYSQL, MARIADB,SQLSERVER
  <div>
   <a href="https://github.com/CarlosPXsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosPXsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
